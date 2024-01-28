@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ww.118\ww.118\bin\Debug\ww.118.exe.config
+C:\Users\user\source\repos\ww.118\ww.118\bin\Debug\ww.118.exe
+C:\Users\user\source\repos\ww.118\ww.118\bin\Debug\ww.118.pdb
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww.118.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww._118.Form1.resources
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww._118.Properties.Resources.resources
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww.118.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww.118.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww.118.exe
+C:\Users\user\source\repos\ww.118\ww.118\obj\Debug\ww.118.pdb
